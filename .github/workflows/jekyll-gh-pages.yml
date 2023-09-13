@@ -41,7 +41,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{xinghuq.github.io}}
+      url: ${{xinghuq.github.io/qin_lab}}
     runs-on: ubuntu-latest
     needs: build
     steps:
