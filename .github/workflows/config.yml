@@ -10,7 +10,7 @@ title: Qin Academic website
 email: qin.xinghu@163.com
 description: Qin's Academic website
 baseurl: ""
-url: "https://xinghuq.github.io"
+url: "https://xinghuq.github.io/qin_lab"
 
 include:
   - .htaccess
