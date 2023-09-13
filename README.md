@@ -36,7 +36,7 @@ Each post also includes yaml topmatter that specifies the layout, title, date, a
 
 ## Deploying changes to the website
 
-Every time a is commit pushed to the master branch, the website will be deployed to `xinghuq.research.github.io`.
+Every time a is commit pushed to the master branch, the website will be deployed to `xinghuq.github.io`.
 
 ## About the Website
 
